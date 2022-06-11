@@ -1,0 +1,20 @@
+body
+{
+    background-color: #347aec;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    color:rgb(222, 208, 208);
+}
+
+
+
+img:hover{
+    border-radius: 140px;
+}
